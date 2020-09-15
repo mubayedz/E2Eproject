@@ -1,0 +1,34 @@
+22:41:47.839 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+22:41:47.842 [TestNG-tests-3] DEBUG freemarker.cache - "spark/partials/exception.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/mubayed/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/exception.ftl hasn't changed.
+22:41:47.843 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+22:41:47.843 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+22:41:47.844 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+22:41:47.844 [TestNG-tests-3] DEBUG freemarker.cache - "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/mubayed/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl hasn't changed.
+22:41:47.847 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+22:41:47.848 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+22:41:47.855 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+22:41:47.855 [TestNG-tests-3] DEBUG freemarker.cache - "spark/partials/scripts.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/mubayed/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl hasn't changed.
+22:41:47.856 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+22:41:47.857 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+22:41:47.858 [TestNG-tests-3] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+22:41:47.859 [TestNG-tests-3] DEBUG freemarker.cache - "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/mubayed/.m2/repository/com/aventstack/extentreports/4.1.4/extentreports-4.1.4.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl hasn't changed.
+22:56:02.836 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+22:56:15.696 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+22:56:27.383 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+22:56:27.470 [TestNG-tests-4] INFO  resources.base - The title is displayed
+22:56:31.636 [TestNG-tests-3] INFO  resources.base - Restricted User
+22:56:56.616 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+22:58:44.356 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+22:58:51.511 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+22:59:01.499 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+22:59:02.446 [TestNG-tests-4] INFO  resources.base - The title is displayed
+22:59:04.718 [TestNG-tests-3] INFO  resources.base - Restricted User
+22:59:26.998 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+23:13:14.315 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+23:13:25.875 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+23:13:37.029 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+23:13:37.584 [TestNG-tests-4] INFO  resources.base - The title is displayed
+23:13:43.531 [TestNG-tests-3] INFO  resources.base - Restricted User
+23:14:08.094 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+23:38:54.148 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+23:39:08.091 [TestNG-tests-2] INFO  resources.base - Navigated to home page

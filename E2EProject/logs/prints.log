@@ -1,0 +1,34 @@
+23:39:21.524 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+23:39:21.774 [TestNG-tests-4] INFO  resources.base - The title is displayed
+23:39:26.788 [TestNG-tests-3] INFO  resources.base - Restricted User
+23:39:55.893 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+00:08:40.498 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+00:08:57.108 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+00:09:05.397 [TestNG-tests-4] INFO  resources.base - The title is displayed
+00:09:05.514 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+00:09:08.977 [TestNG-tests-3] INFO  resources.base - Restricted User
+00:09:31.680 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+00:14:53.270 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+00:15:06.394 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+00:15:17.528 [TestNG-tests-4] INFO  resources.base - The title is displayed
+00:15:17.926 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+00:15:24.256 [TestNG-tests-3] INFO  resources.base - Restricted User
+00:15:47.249 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+00:44:56.591 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+00:45:15.811 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+00:45:18.630 [TestNG-tests-4] INFO  resources.base - The title is displayed
+00:45:18.666 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+00:45:21.314 [TestNG-tests-3] INFO  resources.base - Restricted User
+00:45:48.421 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+23:38:24.797 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+23:38:40.378 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+23:38:48.172 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+23:38:48.172 [TestNG-tests-4] INFO  resources.base - The title is displayed
+23:38:51.921 [TestNG-tests-3] INFO  resources.base - Restricted User
+23:39:11.553 [TestNG-tests-3] INFO  resources.base - Non Restricted User
+23:40:00.332 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+23:40:11.538 [TestNG-tests-2] INFO  resources.base - Navigated to home page
+23:40:20.457 [TestNG-tests-2] INFO  resources.base - Navigation title is displayed
+23:40:20.640 [TestNG-tests-4] INFO  resources.base - The title is displayed
+23:40:25.047 [TestNG-tests-3] INFO  resources.base - Restricted User
+23:40:47.790 [TestNG-tests-3] INFO  resources.base - Non Restricted User
