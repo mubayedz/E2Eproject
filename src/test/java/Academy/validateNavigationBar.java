@@ -41,6 +41,7 @@ public class validateNavigationBar extends base {
 	@AfterTest
 	public void Close() {
 		driver.close();
+		System.out.println("Bye bye");
 	}
 
 }

@@ -36,6 +36,7 @@ public class HomePage extends base {
 		rd.Password().sendKeys(Password); // con esto puedo enviar varias claves
 		log.info(text);
 		rd.ClickLogin().click();
+		System.out.println("Bye bye");
 		driver.close();
 		
 	}
